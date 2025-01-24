@@ -8,3 +8,9 @@ ICT Engineering and constatly learning more about programming!
 
 Here you can find simple examples of how to code with Python, these examples
 are my own code that I have learned dusring my studies.
+
+## TSTI
+
+'''
+for jtaii in jotain;
+'''
