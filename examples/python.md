@@ -30,10 +30,18 @@ print(f"Hello World!\n{name}\n{year}\n{address}")
 
 
 ## Funcions
-¨
-User input
-round method
-tää ehkä väärin
+
+- Python has multiple useful built-in functions that can be utilized 
+- You can also create your own functions that can be run when called
+- Functions are defined with def and are called by using the name of <br>
+function and adding parenthesis afterwards. If there is a parameter(s) <br>
+it is added inside the parenthesis.
+- Below there is an example of a simple function which calculates <br>
+the price of a product after taxes (24%) are added
+- The function takes one parameter (total), which is asked from the <br>
+user with a built-in input-function
+- Another built-in function, round, is used as well
+- Round-function rounds the price to two decimals
 
 ```python
 def taxprice(total):
@@ -41,7 +49,7 @@ def taxprice(total):
     return round(price, 2)
 
 
-total1 = float(input("Anna hinta ilman alv: "))
-alvtotal = taxprice(total1)
-print(f"Hinta alvin kanssa: {alvtotal} €")
+pricelinput = float(input("Enter price without tax: "))
+taxtotal = taxprice(pricelinput)
+print(f"The price with tax is: {taxtotal} €")
 ```
