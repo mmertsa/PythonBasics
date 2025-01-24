@@ -9,14 +9,11 @@ progress as I progress with my programming skills.
 
 - With Python you can print text simply using print command and writing
 the text you want to print as output inside brackets. 
-
 - Additionally, you can save information or values in variables. The name of 
 variable is written first and the value is indicated after equal sign.
-
 - Identitation is extremely important with Python as Python uses identitation
 as a guide to execute code. With identitation you indicate where a new block
 of code starts.
-
 - Below is an example how to assign values to variables and how to print
 the each value in their own line to the terminal. 
 
@@ -48,8 +45,27 @@ def taxprice(total):
     price = total * 1.24
     return round(price, 2)
 
-
 pricelinput = float(input("Enter price without tax: "))
 taxtotal = taxprice(pricelinput)
 print(f"The price with tax is: {taxtotal} €")
 ```
+
+- Here is another example of a simple function that <br>
+calculates the amount of fuel consumption based on the distance <br>
+entered by user
+- In my examples as the function is called, the return value is also <br>
+printed. If it is not printed, the code still runs, the value just is not <br>
+visible anywhere
+
+
+```python
+def consumption(distance):
+    fuel = (6.5 * distance) / 100
+    return round(fuel, 1)
+
+distanceinput = int(input("Enter the distance: "))
+print(consumption(distanceinput), "l/100km")
+```
+## If- sentences
+## For-loop
+miten saisin tiedostoina tänne kaikki tehtävät
