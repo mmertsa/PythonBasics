@@ -12,6 +12,10 @@ are my own code that I have learned dusring my studies.
 
 ## TSTI
 
+
+> testing
+
+
 ´´´
 def alvinhinta(summa):
     hinta = summa * 1.24
