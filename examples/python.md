@@ -13,6 +13,7 @@ are my own code that I have learned dusring my studies.
 ## TSTI
 
 ´´´
+{
 def alvinhinta(summa):
     hinta = summa * 1.24
     return round(hinta, 2)
@@ -21,4 +22,5 @@ def alvinhinta(summa):
 summa1 = float(input("Anna hinta ilman alv: "))
 alvsumma = alvinhinta(summa1)
 print(f"Hinta alvin kanssa: {alvsumma} €")
+}
 ´´´
