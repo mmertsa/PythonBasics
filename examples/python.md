@@ -26,7 +26,7 @@ print(f"Hello World!\n{name}\n{year}\n{address}")
 ```
 
 
-## Funcions
+## Functions
 
 - Python has multiple useful built-in functions that can be utilized within <br>
 your own code 
@@ -67,6 +67,9 @@ def consumption(distance):
 distanceinput = int(input("Enter the distance: "))
 print(consumption(distanceinput), "l/100km")
 ```
+
+- You can find more very simple examples from CodeFiles!
+
 ## If- sentences
 ## For-loop
 miten saisin tiedostoina tänne kaikki tehtävät
