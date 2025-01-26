@@ -1,7 +1,7 @@
 # PythonBasics
 
 <p>
-Python was the first language I programmed with back in the university. I was 
+Python was the first programming language I came accross with back in the university. I was 
 studying English as my major and decided to take a beginner programming course
 just for fun. During that course I learned to code very simple code with 
 Python and really enjoyed the course. A few years later I am studying 
