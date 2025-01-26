@@ -1,5 +1,5 @@
 # This very simple program demostartes how if-elif stucture works
-# It compares two given number using conditional statements (if-elif)
+# It compares two given numbers using conditional statements (if-elif)
 
 # Prompt the user to input two integers
 first_number = int(input("Enter the first number: "))
