@@ -4,7 +4,7 @@
 # a loop, making it easier to manage larger dictionaries dynamically. 
 # This method is especially useful when dealing with dictionaries that 
 # have many entries, as it reduces redundancy in your code.
-# The output looks the same but code differs a lot!
+# The output looks the same but the code differs a lot!
 
 library = {
     "name": "Pulp Fiction",
