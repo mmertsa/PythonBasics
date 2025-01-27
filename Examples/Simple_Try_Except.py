@@ -1,3 +1,5 @@
+# A simple program that demostrates error handling.
+
 try:
     # Prompt the user to enter the first number
     number1 = float(input("Please enter the first number: "))
