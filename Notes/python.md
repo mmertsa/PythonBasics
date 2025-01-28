@@ -73,4 +73,4 @@ print(consumption(distanceinput), "l/100km")
 ## If- sentences
 ## For-loop
 
-More notes coming..
+More notes coming soon..
