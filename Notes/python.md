@@ -68,8 +68,9 @@ distanceinput = int(input("Enter the distance: "))
 print(consumption(distanceinput), "l/100km")
 ```
 
-- You can find more very simple examples from CodeFiles!
+- You can find more very simple examples from Examples!
 
 ## If- sentences
 ## For-loop
-miten saisin tiedostoina tänne kaikki tehtävät
+
+More notes coming..
